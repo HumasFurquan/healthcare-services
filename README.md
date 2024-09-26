@@ -73,13 +73,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 - Git
 - GitHub
 
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License. 
 
-The MIT License is a permissive free software license that allows for reuse within proprietary software, as long as all copies include the original license and copyright notice. 
-
-See the [LICENSE](LICENSE) file for details.
+The MIT License is a permissive free software license that allows for reuse within proprietary software, as long as all copies include the original license and copyright notice.
