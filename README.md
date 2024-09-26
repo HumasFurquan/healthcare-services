@@ -78,6 +78,6 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License. For more details, please refer to the `LICENSE` file in the root of the repository.
 
-The MIT License is a permissive free software license that allows for reuse within proprietary software, as long as all copies include the original license and copyright notice.
+The MIT License is a permissive free software license that allows for reuse within proprietary software, as long as all copies include the original license and copyright notice. This means you can freely use, modify, and distribute the software as long as you retain the same license and copyright notice.
