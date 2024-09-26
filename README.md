@@ -33,11 +33,13 @@ To navigate to the project directory, use the following command:
 
 ```bash
 cd healthcare-services
+```
 
 ### Install the dependencies:
 
 ```bash
 npm install
+```
 
 ## Available Scripts
 
